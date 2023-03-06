@@ -1,0 +1,11 @@
+C:\Users\unisanta\source\repos\aula-04\aula-04\obj\Debug\aula-04.csproj.AssemblyReference.cache
+C:\Users\unisanta\source\repos\aula-04\aula-04\obj\Debug\aula-04.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\source\repos\aula-04\aula-04\obj\Debug\aula_04.Formulariopoha.resources
+C:\Users\unisanta\source\repos\aula-04\aula-04\obj\Debug\aula_04.Properties.Resources.resources
+C:\Users\unisanta\source\repos\aula-04\aula-04\obj\Debug\aula-04.csproj.GenerateResource.cache
+C:\Users\unisanta\source\repos\aula-04\aula-04\obj\Debug\aula-04.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\source\repos\aula-04\aula-04\bin\Debug\aula-04.exe.config
+C:\Users\unisanta\source\repos\aula-04\aula-04\bin\Debug\aula-04.exe
+C:\Users\unisanta\source\repos\aula-04\aula-04\bin\Debug\aula-04.pdb
+C:\Users\unisanta\source\repos\aula-04\aula-04\obj\Debug\aula-04.exe
+C:\Users\unisanta\source\repos\aula-04\aula-04\obj\Debug\aula-04.pdb
