@@ -1,0 +1,11 @@
+C:\Users\unisanta\source\repos\Tp - 130323\Tp - 130323\bin\Debug\Tp - 130323.exe.config
+C:\Users\unisanta\source\repos\Tp - 130323\Tp - 130323\bin\Debug\Tp - 130323.exe
+C:\Users\unisanta\source\repos\Tp - 130323\Tp - 130323\bin\Debug\Tp - 130323.pdb
+C:\Users\unisanta\source\repos\Tp - 130323\Tp - 130323\obj\Debug\Tp - 130323.csproj.AssemblyReference.cache
+C:\Users\unisanta\source\repos\Tp - 130323\Tp - 130323\obj\Debug\Tp - 130323.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\source\repos\Tp - 130323\Tp - 130323\obj\Debug\Tp___130323.Form1.resources
+C:\Users\unisanta\source\repos\Tp - 130323\Tp - 130323\obj\Debug\Tp___130323.Properties.Resources.resources
+C:\Users\unisanta\source\repos\Tp - 130323\Tp - 130323\obj\Debug\Tp - 130323.csproj.GenerateResource.cache
+C:\Users\unisanta\source\repos\Tp - 130323\Tp - 130323\obj\Debug\Tp - 130323.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\source\repos\Tp - 130323\Tp - 130323\obj\Debug\Tp - 130323.exe
+C:\Users\unisanta\source\repos\Tp - 130323\Tp - 130323\obj\Debug\Tp - 130323.pdb
