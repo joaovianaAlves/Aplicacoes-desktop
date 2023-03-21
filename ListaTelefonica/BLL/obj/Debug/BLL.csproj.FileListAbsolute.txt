@@ -1,0 +1,11 @@
+C:\Users\unisanta\source\repos\ListaTelefonica\BLL\bin\Debug\BLL.exe.config
+C:\Users\unisanta\source\repos\ListaTelefonica\BLL\bin\Debug\BLL.exe
+C:\Users\unisanta\source\repos\ListaTelefonica\BLL\bin\Debug\BLL.pdb
+C:\Users\unisanta\source\repos\ListaTelefonica\BLL\obj\Debug\BLL.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\source\repos\ListaTelefonica\BLL\obj\Debug\BLL.Form1.resources
+C:\Users\unisanta\source\repos\ListaTelefonica\BLL\obj\Debug\BLL.Properties.Resources.resources
+C:\Users\unisanta\source\repos\ListaTelefonica\BLL\obj\Debug\BLL.csproj.GenerateResource.cache
+C:\Users\unisanta\source\repos\ListaTelefonica\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\source\repos\ListaTelefonica\BLL\obj\Debug\BLL.exe
+C:\Users\unisanta\source\repos\ListaTelefonica\BLL\obj\Debug\BLL.pdb
+C:\Users\unisanta\source\repos\ListaTelefonica\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
