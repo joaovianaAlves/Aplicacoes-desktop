@@ -1,0 +1,12 @@
+C:\DataBinding\DataBinding\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\DataBinding\DataBinding\BLL\bin\Debug\net6.0\BLL.dll
+C:\DataBinding\DataBinding\BLL\bin\Debug\net6.0\ref\BLL.dll
+C:\DataBinding\DataBinding\BLL\bin\Debug\net6.0\BLL.pdb
+C:\DataBinding\DataBinding\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\DataBinding\DataBinding\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\DataBinding\DataBinding\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\DataBinding\DataBinding\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\DataBinding\DataBinding\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\DataBinding\DataBinding\BLL\obj\Debug\net6.0\BLL.dll
+C:\DataBinding\DataBinding\BLL\obj\Debug\net6.0\ref\BLL.dll
+C:\DataBinding\DataBinding\BLL\obj\Debug\net6.0\BLL.pdb
