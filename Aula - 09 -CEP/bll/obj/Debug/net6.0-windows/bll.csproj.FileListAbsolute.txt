@@ -1,0 +1,15 @@
+C:\Users\unisanta\source\repos\CEP\bll\obj\Debug\net6.0-windows\bll.csproj.AssemblyReference.cache
+C:\Users\unisanta\source\repos\CEP\bll\obj\Debug\net6.0-windows\bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unisanta\source\repos\CEP\bll\obj\Debug\net6.0-windows\bll.AssemblyInfoInputs.cache
+C:\Users\unisanta\source\repos\CEP\bll\obj\Debug\net6.0-windows\bll.AssemblyInfo.cs
+C:\Users\unisanta\source\repos\CEP\bll\obj\Debug\net6.0-windows\bll.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\source\repos\CEP\bll\bin\Debug\net6.0-windows\bll.exe
+C:\Users\unisanta\source\repos\CEP\bll\bin\Debug\net6.0-windows\bll.deps.json
+C:\Users\unisanta\source\repos\CEP\bll\bin\Debug\net6.0-windows\bll.runtimeconfig.json
+C:\Users\unisanta\source\repos\CEP\bll\bin\Debug\net6.0-windows\bll.dll
+C:\Users\unisanta\source\repos\CEP\bll\bin\Debug\net6.0-windows\ref\bll.dll
+C:\Users\unisanta\source\repos\CEP\bll\bin\Debug\net6.0-windows\bll.pdb
+C:\Users\unisanta\source\repos\CEP\bll\obj\Debug\net6.0-windows\bll.dll
+C:\Users\unisanta\source\repos\CEP\bll\obj\Debug\net6.0-windows\ref\bll.dll
+C:\Users\unisanta\source\repos\CEP\bll\obj\Debug\net6.0-windows\bll.pdb
+C:\Users\unisanta\source\repos\CEP\bll\obj\Debug\net6.0-windows\bll.genruntimeconfig.cache

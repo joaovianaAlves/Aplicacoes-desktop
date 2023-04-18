@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CEP", "CEP\CEP.csproj", "{50BDDE54-12BE-49A5-AE36-6FFA5B32AEED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bll", "bll\bll.csproj", "{6D95A43A-96D3-481E-BE0F-C8A035A18CAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50BDDE54-12BE-49A5-AE36-6FFA5B32AEED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50BDDE54-12BE-49A5-AE36-6FFA5B32AEED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50BDDE54-12BE-49A5-AE36-6FFA5B32AEED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50BDDE54-12BE-49A5-AE36-6FFA5B32AEED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D95A43A-96D3-481E-BE0F-C8A035A18CAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D95A43A-96D3-481E-BE0F-C8A035A18CAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D95A43A-96D3-481E-BE0F-C8A035A18CAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D95A43A-96D3-481E-BE0F-C8A035A18CAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5422473-654F-48BF-AD3A-CC7134B126BA}
+	EndGlobalSection
+EndGlobal
