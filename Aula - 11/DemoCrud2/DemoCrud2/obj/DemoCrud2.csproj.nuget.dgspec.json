@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\unisanta\\source\\repos\\DemoCrud2\\DemoCrud2\\DemoCrud2.csproj": {}
+    "C:\\Users\\unisanta\\Source\\Repos\\Maarjorieee\\Aplicacoes-desktop\\Aula - 11\\DemoCrud2\\DemoCrud2\\DemoCrud2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\unisanta\\source\\repos\\DemoCrud2\\DAL\\DAL.csproj": {
+    "C:\\Users\\unisanta\\Source\\Repos\\Maarjorieee\\Aplicacoes-desktop\\Aula - 11\\DemoCrud2\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\unisanta\\source\\repos\\DemoCrud2\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\unisanta\\Source\\Repos\\Maarjorieee\\Aplicacoes-desktop\\Aula - 11\\DemoCrud2\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\unisanta\\source\\repos\\DemoCrud2\\DAL\\DAL.csproj",
+        "projectPath": "C:\\Users\\unisanta\\Source\\Repos\\Maarjorieee\\Aplicacoes-desktop\\Aula - 11\\DemoCrud2\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\unisanta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\unisanta\\source\\repos\\DemoCrud2\\DAL\\obj\\",
+        "outputPath": "C:\\Users\\unisanta\\Source\\Repos\\Maarjorieee\\Aplicacoes-desktop\\Aula - 11\\DemoCrud2\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\unisanta\\source\\repos\\DemoCrud2\\DemoCrud2\\DemoCrud2.csproj": {
+    "C:\\Users\\unisanta\\Source\\Repos\\Maarjorieee\\Aplicacoes-desktop\\Aula - 11\\DemoCrud2\\DemoCrud2\\DemoCrud2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\unisanta\\source\\repos\\DemoCrud2\\DemoCrud2\\DemoCrud2.csproj",
+        "projectUniqueName": "C:\\Users\\unisanta\\Source\\Repos\\Maarjorieee\\Aplicacoes-desktop\\Aula - 11\\DemoCrud2\\DemoCrud2\\DemoCrud2.csproj",
         "projectName": "DemoCrud2",
-        "projectPath": "C:\\Users\\unisanta\\source\\repos\\DemoCrud2\\DemoCrud2\\DemoCrud2.csproj",
+        "projectPath": "C:\\Users\\unisanta\\Source\\Repos\\Maarjorieee\\Aplicacoes-desktop\\Aula - 11\\DemoCrud2\\DemoCrud2\\DemoCrud2.csproj",
         "packagesPath": "C:\\Users\\unisanta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\unisanta\\source\\repos\\DemoCrud2\\DemoCrud2\\obj\\",
+        "outputPath": "C:\\Users\\unisanta\\Source\\Repos\\Maarjorieee\\Aplicacoes-desktop\\Aula - 11\\DemoCrud2\\DemoCrud2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -96,8 +96,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\unisanta\\source\\repos\\DemoCrud2\\DAL\\DAL.csproj": {
-                "projectPath": "C:\\Users\\unisanta\\source\\repos\\DemoCrud2\\DAL\\DAL.csproj"
+              "C:\\Users\\unisanta\\Source\\Repos\\Maarjorieee\\Aplicacoes-desktop\\Aula - 11\\DemoCrud2\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\unisanta\\Source\\Repos\\Maarjorieee\\Aplicacoes-desktop\\Aula - 11\\DemoCrud2\\DAL\\DAL.csproj"
               }
             }
           }
