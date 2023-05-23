@@ -29,5 +29,21 @@ namespace DAL
 
         }
 
+        public void Create( Agenda agenda)
+        {
+            _agenda.InsertOne(agenda);
+        }
+
+
+        public void Delete(Agenda agenda)
+        {
+            
+        }
+
+        public void Update(Agenda agenda)
+        {
+
+        }
+
     }
 }

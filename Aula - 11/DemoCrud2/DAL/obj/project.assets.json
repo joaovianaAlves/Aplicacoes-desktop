@@ -709,11 +709,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\unisanta\\source\\repos\\DemoCrud2\\DAL\\DAL.csproj",
+      "projectUniqueName": "C:\\Users\\unisanta\\Source\\Repos\\Maarjorieee\\Aplicacoes-desktop\\Aula - 11\\DemoCrud2\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "C:\\Users\\unisanta\\source\\repos\\DemoCrud2\\DAL\\DAL.csproj",
+      "projectPath": "C:\\Users\\unisanta\\Source\\Repos\\Maarjorieee\\Aplicacoes-desktop\\Aula - 11\\DemoCrud2\\DAL\\DAL.csproj",
       "packagesPath": "C:\\Users\\unisanta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\unisanta\\source\\repos\\DemoCrud2\\DAL\\obj\\",
+      "outputPath": "C:\\Users\\unisanta\\Source\\Repos\\Maarjorieee\\Aplicacoes-desktop\\Aula - 11\\DemoCrud2\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

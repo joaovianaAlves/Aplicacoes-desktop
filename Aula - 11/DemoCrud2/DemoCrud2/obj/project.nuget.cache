@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KUrbaBYIwLV59JxWsO2U4T3fidgfCMK4TKcZnTVROIpsh8ZlaV8sVyR8OuAJzO5Q3iGNe8kkSOvSY1mMxH4adA==",
+  "dgSpecHash": "rjzKuleygfuI8TBfBwjSBMmKRpMgLkzhv0ApsK/tUoDNTR54c4mXWo6txpnIzcoPlr8Y1tEidSNEf5dxCJqPzA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\unisanta\\source\\repos\\DemoCrud2\\DemoCrud2\\DemoCrud2.csproj",
+  "projectFilePath": "C:\\Users\\unisanta\\Source\\Repos\\Maarjorieee\\Aplicacoes-desktop\\Aula - 11\\DemoCrud2\\DemoCrud2\\DemoCrud2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\unisanta\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\unisanta\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

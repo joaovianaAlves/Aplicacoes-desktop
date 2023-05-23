@@ -38,12 +38,13 @@
             this.label1a = new System.Windows.Forms.Label();
             this.panel3 = new System.Windows.Forms.Panel();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.btn_crud = new System.Windows.Forms.Button();
             this.panel2 = new System.Windows.Forms.Panel();
+            this.btnNovo = new System.Windows.Forms.Button();
+            this.btnExcluir = new System.Windows.Forms.Button();
+            this.btnEditar = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.bsAgenda)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.panel3.SuspendLayout();
-            this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -64,6 +65,7 @@
             this.dataGridView1.DataSource = this.bsAgenda;
             this.dataGridView1.Location = new System.Drawing.Point(263, 159);
             this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.ReadOnly = true;
             this.dataGridView1.RowTemplate.Height = 25;
             this.dataGridView1.Size = new System.Drawing.Size(343, 153);
             this.dataGridView1.TabIndex = 0;
@@ -73,6 +75,7 @@
             this.idDataGridViewTextBoxColumn.DataPropertyName = "_id";
             this.idDataGridViewTextBoxColumn.HeaderText = "_id";
             this.idDataGridViewTextBoxColumn.Name = "idDataGridViewTextBoxColumn";
+            this.idDataGridViewTextBoxColumn.ReadOnly = true;
             this.idDataGridViewTextBoxColumn.Visible = false;
             // 
             // nameDataGridViewTextBoxColumn
@@ -80,18 +83,21 @@
             this.nameDataGridViewTextBoxColumn.DataPropertyName = "name";
             this.nameDataGridViewTextBoxColumn.HeaderText = "name";
             this.nameDataGridViewTextBoxColumn.Name = "nameDataGridViewTextBoxColumn";
+            this.nameDataGridViewTextBoxColumn.ReadOnly = true;
             // 
             // addressDataGridViewTextBoxColumn
             // 
             this.addressDataGridViewTextBoxColumn.DataPropertyName = "address";
             this.addressDataGridViewTextBoxColumn.HeaderText = "address";
             this.addressDataGridViewTextBoxColumn.Name = "addressDataGridViewTextBoxColumn";
+            this.addressDataGridViewTextBoxColumn.ReadOnly = true;
             // 
             // telDataGridViewTextBoxColumn
             // 
             this.telDataGridViewTextBoxColumn.DataPropertyName = "tel";
             this.telDataGridViewTextBoxColumn.HeaderText = "tel";
             this.telDataGridViewTextBoxColumn.Name = "telDataGridViewTextBoxColumn";
+            this.telDataGridViewTextBoxColumn.ReadOnly = true;
             // 
             // label1a
             // 
@@ -118,27 +124,12 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.CadetBlue;
-            this.panel1.Controls.Add(this.btn_crud);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(105, 77);
             this.panel1.TabIndex = 7;
             this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
-            // 
-            // btn_crud
-            // 
-            this.btn_crud.BackColor = System.Drawing.Color.CadetBlue;
-            this.btn_crud.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.btn_crud.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.btn_crud.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(227)))), ((int)(((byte)(244)))), ((int)(((byte)(244)))));
-            this.btn_crud.Location = new System.Drawing.Point(0, 0);
-            this.btn_crud.Name = "btn_crud";
-            this.btn_crud.Size = new System.Drawing.Size(105, 77);
-            this.btn_crud.TabIndex = 8;
-            this.btn_crud.Text = "Mostrar";
-            this.btn_crud.UseVisualStyleBackColor = false;
-            this.btn_crud.Click += new System.EventHandler(this.btn_crud_Click);
             // 
             // panel2
             // 
@@ -150,11 +141,43 @@
             this.panel2.Size = new System.Drawing.Size(695, 77);
             this.panel2.TabIndex = 7;
             // 
+            // btnNovo
+            // 
+            this.btnNovo.Location = new System.Drawing.Point(431, 388);
+            this.btnNovo.Name = "btnNovo";
+            this.btnNovo.Size = new System.Drawing.Size(104, 34);
+            this.btnNovo.TabIndex = 8;
+            this.btnNovo.Text = "Novo";
+            this.btnNovo.UseVisualStyleBackColor = true;
+            // 
+            // btnExcluir
+            // 
+            this.btnExcluir.Location = new System.Drawing.Point(554, 388);
+            this.btnExcluir.Name = "btnExcluir";
+            this.btnExcluir.Size = new System.Drawing.Size(104, 34);
+            this.btnExcluir.TabIndex = 9;
+            this.btnExcluir.Text = "Excluir";
+            this.btnExcluir.UseVisualStyleBackColor = true;
+            this.btnExcluir.Click += new System.EventHandler(this.btnExcluir_Click);
+            // 
+            // btnEditar
+            // 
+            this.btnEditar.Location = new System.Drawing.Point(670, 388);
+            this.btnEditar.Name = "btnEditar";
+            this.btnEditar.Size = new System.Drawing.Size(104, 34);
+            this.btnEditar.TabIndex = 10;
+            this.btnEditar.Text = "Editar";
+            this.btnEditar.UseVisualStyleBackColor = true;
+            this.btnEditar.Click += new System.EventHandler(this.btnEditar_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnEditar);
+            this.Controls.Add(this.btnExcluir);
+            this.Controls.Add(this.btnNovo);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel3);
             this.Controls.Add(this.dataGridView1);
@@ -164,7 +187,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.bsAgenda)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.panel3.ResumeLayout(false);
-            this.panel1.ResumeLayout(false);
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();
             this.ResumeLayout(false);
@@ -183,6 +205,8 @@
         private Panel panel3;
         private Panel panel1;
         private Panel panel2;
-        private Button btn_crud;
+        private Button btnNovo;
+        private Button btnExcluir;
+        private Button btnEditar;
     }
 }

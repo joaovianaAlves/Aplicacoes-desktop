@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nZ3KtCwRERgOU6do2r7hSt3gz9sVLtNjGKintEClzCDoaQpuvEkSwMDtw1nfbSEVObnqLoOjM1Yc2wO/o2V96g==",
+  "dgSpecHash": "+4Kyd6Zb28nFqydu681gK9KHLG/W6V62B710K72xyqrmzZS1dtW8FyYmh8nnrylwJt9TiX96CvBAo9cGNlDFLA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\unisanta\\source\\repos\\DemoCrud2\\DAL\\DAL.csproj",
+  "projectFilePath": "C:\\Users\\unisanta\\Source\\Repos\\Maarjorieee\\Aplicacoes-desktop\\Aula - 11\\DemoCrud2\\DAL\\DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\unisanta\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\unisanta\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
